@@ -17,20 +17,12 @@ body{
 
 .grid-elemento1{
                            justify-self:left;
-                           animation-name: logo;
-                           animation-duration: 10s;
+                        
                            
 
 }
 
-@keyframes logo 
-{
 
-0% { opacity: 0;}
-50% {opacity: 0.5;}
-100% {opacity: 1;}
-
-}
 
     .logoSize{
 
@@ -138,8 +130,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
                             display: flex;
                             flex-direction: column;
                             padding-bottom: 50px;
-                            animation-name: logo;
-                            animation-duration: 10s;      
+
                             
 
    }
